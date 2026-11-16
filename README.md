@@ -459,7 +459,8 @@ Ctrl + F5
 
 ## 프로젝트 작동 확인 결과
 
-<img width="1399" height="542" alt="{8DBC2DD8-9A88-4ED6-8E4D-30CF6CE519E4}" src="https://github.com/user-attachments/assets/7cbf5e16-0134-4a56-981b-ec2625577b02" />
+<img width="2017" height="780" alt="날짜별 인기뉴스 AI 큐레이션" src="https://github.com/user-attachments/assets/068b383d-8972-40bc-a374-fd1754566a44" />
+
 
 ## 10. 주요 리스크
 
