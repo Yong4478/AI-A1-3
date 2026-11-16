@@ -457,6 +457,10 @@ Ctrl + F5
 
 ---
 
+## 프로젝트 작동 확인 결과
+
+<img width="1399" height="542" alt="{8DBC2DD8-9A88-4ED6-8E4D-30CF6CE519E4}" src="https://github.com/user-attachments/assets/7cbf5e16-0134-4a56-981b-ec2625577b02" />
+
 ## 10. 주요 리스크
 
 ### 10.1 GDELT API 요청 제한
