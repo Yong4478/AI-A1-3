@@ -446,6 +446,8 @@ Ctrl + F5
 <img width="2017" height="780" alt="날짜별 인기뉴스 AI 큐레이션" src="https://github.com/user-attachments/assets/068b383d-8972-40bc-a374-fd1754566a44" />
 
 
+https://ai-a1-3-k4cr-phi.vercel.app/
+
 ## 10. 주요 리스크
 
 ### 10.1 GDELT API 요청 제한
